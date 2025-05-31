@@ -10,7 +10,7 @@ box-sizing: border-box;
 scroll-behavior: smooth;
 }
 header {
-    background-color: #f0f0f0;
+    background-color: #c33f3f;
     width: 100%;
     position: fixed;
     display: flex;
